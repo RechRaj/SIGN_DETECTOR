@@ -15,7 +15,7 @@
 
 #### - The pre-version:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/47291471-73781000-d60c-11e8-9e5c-34699d91c73e.gif" | width=450>
+  <img src="https://github.com/RechRaj/SIGN_DETECTOR/blob/main/pre_version.png" | width=450>
 </p>
 
 ---
@@ -50,7 +50,7 @@ The threshold value to detect the outliars has been calculated (any lines, shape
 
 **Detect and remove the outliars:**
 
-Here the code parts that start on [signature_extractor.py - line#60](https://github.com/ahmetozlu/signature_extractor/blob/master/signature_extractor.py#L60):
+Here the code parts that start on [rsignextractor.py - line#60](https://github.com/ahmetozlu/signature_extractor/blob/master/signature_extractor.py#L60):
 
     # experimental-based ratio calculation, modify it for your cases
     # a4_small_size_outliar_constant is used as a threshold value to remove connected outliar connected pixels
