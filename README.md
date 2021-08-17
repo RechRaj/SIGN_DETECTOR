@@ -50,7 +50,7 @@ The threshold value to detect the outliars has been calculated (any lines, shape
 
 **Detect and remove the outliars:**
 
-Here the code parts that start on [rsignextractor.py - line#60](https://github.com/ahmetozlu/signature_extractor/blob/master/signature_extractor.py#L60):
+Here the code parts that start on [rsignextractor.py - line#55](https://github.com/ahmetozlu/signature_extractor/blob/master/signature_extractor.py#L55):
 
     # experimental-based ratio calculation, modify it for your cases
     # a4_small_size_outliar_constant is used as a threshold value to remove connected outliar connected pixels
@@ -67,8 +67,6 @@ It can be modified for other cases and also the for different scanned document s
   - *constant_parameter_1*
   - *constant_parameter_2*
   - *constant_parameter_3*
-
-
 
 ## Author
 Reshma R
